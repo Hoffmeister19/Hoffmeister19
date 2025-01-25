@@ -1,6 +1,7 @@
 Olá, meu nome é Arthur.
-<a href="https://linkedin.com/arthur-branco-2391452a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 Sou um Estudante com um grande interesse em Cyber-segurança e uma dedicação para resolver problemas complexos.
+
+<a href="https://linkedin.com/in/arthur-branco-2391452a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Objetivo:
 Minha jornada na ciência da computação me levou a desenvolver uma paixão por cibersegurança. Agora, estou ansioso para ingressar nessa área, com o objetivo específico de atuar em um Centro de Operações de Segurança (SOC) como Analista Tier 1.
