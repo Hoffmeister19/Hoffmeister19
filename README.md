@@ -4,18 +4,19 @@ Sou um Estudante com um grande interesse em Cyber-segurança e uma dedicação p
 <a href="https://linkedin.com/in/arthur-branco-2391452a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Objetivo:
-Minha jornada na ciência da computação me levou a desenvolver uma paixão por cibersegurança. Agora, estou ansioso para ingressar nessa área, com o objetivo específico de atuar em um Centro de Operações de Segurança (SOC) como Analista Tier 1.
+Atualmente estou a procura de um estágio na área tecnologia em geral, porém com foco em cyber-segurança.
 
-Habilidades
-[Forneça habilidades e projetos associados. Certifique-se de adicionar o hyperlink do projeto - Remova isso depois]
+Habilidades:
 
-Habilidade	Projeto Associado
-Implementação de SIEM e Análise de Logs	Detection Lab
-Monitoramento de Tráfego de Rede e Detecção de Ataques	Detection Lab
-Automação de Segurança com Shuffle SOAR	SOC Automation Lab
-Planejamento e Execução de Resposta a Incidentes	SOC Automation Lab
-Gerenciamento de Casos com TheHive	SOC Automation Lab
-Scripting e Automação para Mitigação de Ameaças	SOC Automation Lab
+| Hablilidades                                  | Projetos associados        |
+|-----------------------------------------------|----------------------------|
+| Simulação de auditoria da segurança           | (Coursera e Google)
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 Ferramentas
 [Forneça as ferramentas e categorize-as. Use o ChatGPT para ajudar a criar os links - Remova isso depois]
 
