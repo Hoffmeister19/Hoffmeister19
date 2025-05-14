@@ -11,20 +11,19 @@ Habilidades:
 | Hablilidades                                  | Projetos associados        |
 |-----------------------------------------------|----------------------------|
 | Simulação de auditoria da segurança           | (Coursera e Google)
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | (Qualsy|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-Ferramentas
-[Forneça as ferramentas e categorize-as. Use o ChatGPT para ajudar a criar os links - Remova isso depois]
+Ferramentas:
+TCPDump
+Wireshark
+LetsDefend
+Linux
 
-Rede
-Endpoint
-SIEM
 Certificações
-[Forneça as certificações que você obteve. Use o ChatGPT para ajudar a criar os links - Remova isso depois]
 
 Projetos
 Detection Lab
