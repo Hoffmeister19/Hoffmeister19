@@ -80,9 +80,20 @@ Consultas e inserções com eficiência e segurança
 
 👥 Coordenação de tarefas entre os membros da equipe para garantir entregas ágeis e coesas
 
-🧩 Apoio à integração entre o banco de dados e a interface do aplicativo
 ---
 
 ## 📫 Contato
 
 - 📧 Email: [hoffmeisterarthur19@gmail.com](mailto:hoffmeisterarthur19@gmail.com)
+
+---
+  
+## ⚡ Curiosidades
+
+- Sou apaixonado por desafios de segurança ofensiva e investigação de alertas
+- Buscando certificações ISO 27001 e ISO 27005
+- Gosto de aprender com projetos práticos e simulações realistas
+
+---
+
+⭐ Obrigado por visitar meu perfil!
