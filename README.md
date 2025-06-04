@@ -1,31 +1,48 @@
-Olá, meu nome é Arthur.
+# 👋 Olá, eu sou o Arthur!
 Sou um Estudante com um grande interesse em Cyber-segurança e uma dedicação para resolver problemas complexos.
 
 <a href="https://linkedin.com/in/arthur-branco-2391452a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![Email](https://img.shields.io/badge/Email-seuemail@exemplo.com-red?style=flat&logo=gmail)](mailto:hoffmeisterarthur19@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=GitHub&style=social)]([https://github.com/seu-usuario](https://github.com/Hoffmeister19))
-Objetivo:
-Atualmente estou a procura de um estágio na área tecnologia em geral, porém com foco em cyber-segurança.
+[![Email](https://img.shields.io/badge/Email-hoffmeisterarthur19@gmail.com-red?style=flat&logo=gmail)](mailto:hoffmeisterarthur19@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Hoffmeister19?label=GitHub&style=social)](https://github.com/Hoffmeister19)
 
-Habilidades:
+🎓 Estudante de Gestão da Tecnologia da Informação no Centro Universitário IBMR  
+🛡️ Apaixonado por **Cibersegurança**, **Pentest** e **Segurança de Aplicações Web**  
+🧠 Curioso por natureza, dedicado a resolver problemas complexos com tecnologia  
+📍 Rio de Janeiro, Brasil
 
-| Hablilidades                                  | Projetos associados        |
-|-----------------------------------------------|----------------------------|
-| Simulação de auditoria da segurança           | (Coursera e Google)
-| Network Traffic Monitoring and Attack Detection | (Qualsy|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+---
 
-Ferramentas:
-TCPDump
-Wireshark
-LetsDefend
-Linux
+## 🎯 Objetivo
 
-Certificações
+Atualmente, estou em busca de uma oportunidade de **estágio na área de Tecnologia**, com foco especial em **Cibersegurança**. Tenho interesse em atuar com **Governança de TI**, **Compliance**, **Riscos**, e **Segurança da Informação**, e estou desenvolvendo conhecimentos em frameworks como **COBIT** e **ITIL**.
 
-Projetos
-Detection Lab
-Projeto de Automação SOC
+---
+
+## 🛠️ Habilidades e Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📚 Estudando no momento
+
+- 📘 Fortinet Network Security Academy — *Technical Introduction to Cybersecurity 1.0*
+- 🧰 Fundamentos de COBIT e ITIL
+- 📖 História para vestibular do IBMEC
+
+---
+
+## 📄 Certificações e Metas
+
+- ✅ Certificado de inglês (BRASAS)
+- 🎯 Em busca de certificações como:
+  - ISO 27001
+  - ISO 27005
+
+---
+
+## 📫 Contato
