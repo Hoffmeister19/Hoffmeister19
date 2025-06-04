@@ -13,35 +13,76 @@ Sou um Estudante com um grande interesse em Cyber-segurança e uma dedicação p
 
 ## 🎯 Objetivo
 
-Atualmente, estou em busca de uma oportunidade de **estágio na área de Tecnologia**, com foco especial em **Cibersegurança**. Tenho interesse em atuar com **Governança de TI**, **Compliance**, **Riscos**, e **Segurança da Informação**, e estou desenvolvendo conhecimentos em frameworks como **COBIT** e **ITIL**.
+Atualmente, estou em busca de uma oportunidade de **estágio na área de tecnologia**, especialmente com foco em **cibersegurança**. Tenho interesse tanto na vertente **técnica** quanto em **Governança, Risco e Compliance (GRC)**, desenvolvendo habilidades práticas e teóricas constantemente.
 
 ---
 
-## 🛠️ Habilidades e Tecnologias
+## 🎓 Formação Acadêmica
+
+- 🎓 **Gestão de Tecnologia da Informação** – IBMR (Tecnólogo) | 2023 – 2025
+- 🎓 **Ciência da Computação** – UVA (Bacharelado) | 2025 – 2029 *(em breve)*
+- 🇺🇸 **BRASAS English Course** | 2020 – 2022
+
+---
+
+## 🛠️ Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📚 Estudando no momento
+## 📚 Certificações e Cursos
 
-- 📘 Fortinet Network Security Academy — *Technical Introduction to Cybersecurity 1.0*
-- 🧰 Fundamentos de COBIT e ITIL
-- 📖 Automações em python
+- ✅ **Google Cybersecurity Certificate** *(Linux, MySQL, Python prático)*
+- ✅ **Qualys Vulnerability Management Foundation**
+- ✅ **Qualys Vulnerability Management Detection and Response**
+- ✅ **CISCO Networking Essentials**
+- ✅ **LetsDefend** – *How to Investigate a SIEM Alert?*
+- 🔄 **Python Completo 3+** *(PySide6, Django, Selenium, TDD, POO, Design Patterns... em andamento)*
 
 ---
 
-## 📄 Certificações e Metas
+## 🧪 Projetos Práticos
 
-- ✅ Certificado de inglês (BRASAS)
-- 🎯 Em busca de certificações como:
-  - ISO 27001
-  - ISO 27005
+- 📄 **Documentação do processo de resposta a incidentes** – *LetsDefend*
+- 🌐 **Monitoramento de rede com TCPDump e Wireshark**
+- 📱 **Aplicativo de fisioterapia** (Projeto acadêmico)
+  - Desenvolvimento com time de TI
+  - Banco de dados MySQL
+  - Otimização de código
+  - Coordenação e organização do projeto
 
+---
+
+## 💼 Experiência Acadêmica
+
+Líder do Projeto de Extensão de TI – IBMR
+📅 Jun/2024 – Nov/2024
+🎯 Projeto: Desenvolvimento de um aplicativo de apoio à fisioterapia
+
+Como líder desse projeto acadêmico multidisciplinar, atuei em diversas frentes com destaque para a integração entre as áreas técnicas e funcionais da equipe. Minhas principais responsabilidades foram:
+
+👨‍💻 Desenvolvimento da lógica de backend, com foco na estruturação de dados dos pacientes.
+
+🗃️ Modelagem e manutenção de banco de dados MySQL, incluindo:
+
+Criação de tabelas relacionais otimizadas
+
+Controle de acesso e autenticação de usuários
+
+Consultas e inserções com eficiência e segurança
+
+⚙️ Implementação de melhorias de desempenho através da otimização do código e das queries SQL
+
+👥 Coordenação de tarefas entre os membros da equipe para garantir entregas ágeis e coesas
+
+🧩 Apoio à integração entre o banco de dados e a interface do aplicativo
 ---
 
 ## 📫 Contato
+
+- 📧 Email: [hoffmeisterarthur19@gmail.com](mailto:hoffmeisterarthur19@gmail.com)
