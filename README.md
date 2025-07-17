@@ -43,6 +43,7 @@ Atualmente, estou em busca de uma oportunidade de **estágio na área de tecnolo
 - ✅ **CISCO Networking Essentials**
 - ✅ **LetsDefend** – *How to Investigate a SIEM Alert?*
 - 🔄 **Python Completo 3+** *(PySide6, Django, Selenium, TDD, POO, Design Patterns... em andamento)*
+- ✅ **Fortinet Certified Fundamentals**(FCF)
 
 ---
 
